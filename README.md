@@ -3,6 +3,13 @@
 
 This is a simple Wear OS app that allows users to take a quiz in different modes: **Multiple Choice** and **Open-Ended**. The app is built using Jetpack Compose for Wear OS and follows a modern approach to UI design, tailored for small wearable devices. It demonstrates a basic quiz app with interactive elements like chips for answering questions.
 
+## Wear Quiz App Demo
+[![Wear Quiz App](quizAppDemo/homeScreen.png)](quizAppDemo/wearQuizApp.mp4)
+
+<img src="quizAppDemo/multichoice.png" alt="Multiple choice questions" width="20%"/> <img src="quizAppDemo/openend.png" alt="Open-ended questions" width="20%"/> <img src="quizAppDemo/incorrect.png" alt="Incorrect answers" width="20%"/>
+<img src="quizAppDemo/correct.png" alt="Correct answers" width="20%"/> <img src="quizAppDemo/typeanswer.png" alt="Pop-up keyboard" width="20%"/> <img src="quizAppDemo/score.png" alt="Score" width="20%"/>
+
+
 ## Features
 
 - **Multiple Choice Quiz**: Displays questions with options, and users select an answer. The app provides instant feedback and keeps track of the score.
@@ -48,10 +55,6 @@ Include screenshots here (if you have them).
 - **OpenEndedQuiz**: A composable function for the open-ended quiz mode, where users type in their answers.
 - **WearApp**: The main composable that renders the UI and manages the state of the app.
 - **QuizQuestion**: A data class representing each quiz question, with optional multiple-choice options and a correct answer.
-
-## Preview
-
-The app provides a default preview for Wear OS devices:
 
 ```kotlin
 @Preview(device = Devices.WEAR_OS_SMALL_ROUND, showSystemUi = true)
