@@ -1,7 +1,7 @@
 # Week 3 Quiz App (Wear OS)
 ![Contributors](https://img.shields.io/badge/contributor-PiranitaGomez-pink)
 
-This is a simple Wear OS app that allows users to take a quiz in different modes: **Multiple Choice** and **Open-Ended**. The app is built using Jetpack Compose for Wear OS and follows a modern approach to UI design, tailored for small wearable devices. It demonstrates a basic quiz app with interactive elements like chips for answering questions.
+This is a simple Wear OS app that allows users to take a quiz in different modes: **Multiple Choice** and **Open-Ended**. The app is built using [Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-basics) for [Wear OS](https://developer.android.com/training/wearables) and follows a modern approach to UI design, [tailored for small wearable devices](https://developer.android.com/training/wearables/user-interfaces). It demonstrates a basic quiz app with interactive elements like [chips](https://developer.android.com/develop/ui/compose/components/chip) for answering questions.
 
 ## Wear Quiz App Demo
 [![Wear Quiz App](quizAppDemo/homeScreen.png)](https://github.com/user-attachments/assets/8e177892-2f42-44ea-bbf5-e27c83051f9e)
@@ -42,10 +42,6 @@ When you launch the app, it will display a quiz mode selection screen where you 
 - **Open-Ended**: You will be asked to provide a text answer to the question. The app will compare your answer with the correct one and give feedback.
 
 After completing the quiz, you will see your score.
-
-## App Screenshots
-
-Include screenshots here (if you have them).
 
 ## Code Structure
 
