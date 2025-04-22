@@ -4,7 +4,7 @@
 This is a simple Wear OS app that allows users to take a quiz in different modes: **Multiple Choice** and **Open-Ended**. The app is built using Jetpack Compose for Wear OS and follows a modern approach to UI design, tailored for small wearable devices. It demonstrates a basic quiz app with interactive elements like chips for answering questions.
 
 ## Wear Quiz App Demo
-[![Wear Quiz App](quizAppDemo/homeScreen.png)](quizAppDemo/wearQuizApp.mp4)
+[![Wear Quiz App](quizAppDemo/homeScreen.png)](https://github.com/user-attachments/assets/8e177892-2f42-44ea-bbf5-e27c83051f9e)
 
 <img src="quizAppDemo/multichoice.png" alt="Multiple choice questions" width="20%"/> <img src="quizAppDemo/openend.png" alt="Open-ended questions" width="20%"/> <img src="quizAppDemo/incorrect.png" alt="Incorrect answers" width="20%"/>
 <img src="quizAppDemo/correct.png" alt="Correct answers" width="20%"/> <img src="quizAppDemo/typeanswer.png" alt="Pop-up keyboard" width="20%"/> <img src="quizAppDemo/score.png" alt="Score" width="20%"/>
