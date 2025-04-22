@@ -1,4 +1,5 @@
 # Week 3 Quiz App (Wear OS)
+![Contributors](https://img.shields.io/badge/contributor-PiranitaGomez-pink)
 
 This is a simple Wear OS app that allows users to take a quiz in different modes: **Multiple Choice** and **Open-Ended**. The app is built using Jetpack Compose for Wear OS and follows a modern approach to UI design, tailored for small wearable devices. It demonstrates a basic quiz app with interactive elements like chips for answering questions.
 
@@ -28,7 +29,7 @@ Ensure that your development environment is set up to target Wear OS devices. Yo
 
 ## Usage
 
-When you launch the app, it will display a splash screen followed by a mode selection screen where you can choose between two quiz modes:
+When you launch the app, it will display a quiz mode selection screen where you can choose between two quiz modes:
 
 - **Multiple Choice**: You will be presented with multiple-choice questions. Select the correct answer from the available options to earn points.
 - **Open-Ended**: You will be asked to provide a text answer to the question. The app will compare your answer with the correct one and give feedback.
