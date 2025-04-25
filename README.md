@@ -26,7 +26,7 @@ This is a simple Wear OS app that allows users to take a quiz in different modes
 
 ## Setup
 
-1. **Clone the repository**: git clone <repository-url>
+1. **Clone the repository**: git clone https://github.com/ID3-AndroidAppDev/ID3_w3QuizApp.git
 
 2. **Open the project in Android Studio**:
 Open the project in Android Studio that supports Kotlin and Jetpack Compose.
