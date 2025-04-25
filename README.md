@@ -6,8 +6,8 @@ This is a simple Wear OS app that allows users to take a quiz in different modes
 ## Wear Quiz App Demo
 [![Wear Quiz App](quizAppDemo/homeScreen.png)](https://github.com/user-attachments/assets/8e177892-2f42-44ea-bbf5-e27c83051f9e)
 
-<img src="quizAppDemo/multichoice.png" alt="Multiple choice questions" width="30%"/> <img src="quizAppDemo/openend.png" alt="Open-ended questions" width="30%"/> <img src="quizAppDemo/incorrect.png" alt="Incorrect answers" width="30%"/>
-<img src="quizAppDemo/correct.png" alt="Correct answers" width="30%"/> <img src="quizAppDemo/typeanswer.png" alt="Pop-up keyboard" width="30%"/> <img src="quizAppDemo/score.png" alt="Score" width="30%"/>
+<img src="quizAppWatchDemo/multichoice.png" alt="Multiple choice questions" width="30%"/> <img src="quizAppWatchDemo/openend.png" alt="Open-ended questions" width="30%"/> <img src="quizAppWatchDemo/incorrect.png" alt="Incorrect answers" width="30%"/>
+<img src="quizAppWatchDemo/correct.png" alt="Correct answers" width="30%"/> <img src="quizAppWatchDemo/typeanswer.png" alt="Pop-up keyboard" width="30%"/> <img src="quizAppWatchDemo/score.png" alt="Score" width="30%"/>
 
 
 ## Features
